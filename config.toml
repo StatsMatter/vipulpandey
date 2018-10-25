@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://github.com/StatsMatter/vipulpandey"
 title = "StatsMatter Virtual"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
