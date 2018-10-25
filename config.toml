@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://gifted-dijkstra-31ebfe.netlify.com"
 title = "StatsMatter Virtual"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
