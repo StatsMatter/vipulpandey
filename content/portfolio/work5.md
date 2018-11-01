@@ -2,9 +2,9 @@
 image = "img/portfolio/pisa.jpg"
 showonlyimage = false
 draft = false
-date = "2018-11-02T19:53:42+05:30"
+date = "2016-11-05T20:44:32+05:30"
 title = "3D model of Pisa"
-weight = 5
+weight = 2
 +++
 
 
