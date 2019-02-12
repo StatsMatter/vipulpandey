@@ -4,9 +4,8 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Akshardham 3D scan no textures"
 draft = false
-weight = 1
+weight = 4
 +++
-
 
 <div class="sketchfab-embed-wrapper"><iframe width="600" height="300" src="https://sketchfab.com/models/ea0390fdb4f14d5090840ea1a5402aa1/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -17,10 +16,9 @@ weight = 1
 </p>
 </div>
 
-
 ## Tools Used
 
-* Video Editing in Vlc
-* COlmap
-* Meshlab
-* Blender
+- Video Editing in Vlc
+- COlmap
+- Meshlab
+- Blender

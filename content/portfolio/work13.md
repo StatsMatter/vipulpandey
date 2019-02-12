@@ -4,7 +4,7 @@ title = "Photogrammetry Stone 3D scan"
 draft = false
 image = "img/portfolio/stone3d.png"
 showonlyimage = false
-weight = 1
+weight = 4
 +++
 
 Photogrammetry of a stone using simple point and shoot camera.
@@ -20,9 +20,7 @@ Photogrammetry of a stone using simple point and shoot camera.
 
 ## Tools used:
 
-
-* Fujifilm Finepi camera
-* Colmap
-* Meshlab
-* Blender
-
+- Fujifilm Finepi camera
+- Colmap
+- Meshlab
+- Blender

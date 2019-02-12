@@ -4,9 +4,8 @@ showonlyimage = false
 draft = false
 date = "2016-11-05T20:44:32+05:30"
 title = "3D model of Pisa"
-weight = 2
+weight = 4
 +++
-
 
 <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/61db2f7126124d0db74347136c1fb252/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -17,18 +16,17 @@ weight = 2
 </p>
 </div>
 
-
 ## Softwares Used:
+
 1. Colmap
 2. Meshlab
 3. Web Images
 4. Blender
 
-
 ## Detailed Steps for creating the model
 
-* Feature Extraction
-* Feature Matching
-* Sparse Reconstruction
-* Dense Reconstruction
-* Fusion
+- Feature Extraction
+- Feature Matching
+- Sparse Reconstruction
+- Dense Reconstruction
+- Fusion

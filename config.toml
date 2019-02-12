@@ -11,11 +11,11 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Projects 3D Mapping and Photogrammetry"
+  description = "AI Projects,3D Mapping and Photogrammetry"
   copyright = "&copy;2018 Darpn"
   sidebarAbout = [
-    "This site contains projects related to GIS, 3D Virtual Mapping and Photogrammetry ",
-    " currently based in India."
+    "This site contains contents specifically projects, lecture and slides related to Artificial Intelligence, GIS, 3D Virtual Mapping and Photogrammetry ",
+    " under the banner of STATSMATTER."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
